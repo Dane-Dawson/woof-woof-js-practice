@@ -1,0 +1,21 @@
+//turn on server
+
+//domcontentloaded
+//>fetch
+//>create span w/ name
+>append to "dog-bar"
+
+//on span click
+//in dog-info div
+//add
+//<img src=dog_image_url>
+// <h2>Mr. Bonkers</h2>
+// <button>Good Dog!</button>
+
+// click on button
+// toggle button innerText
+// update DB w/ patch
+
+ on filterbutton click
+ change filterbutton innerText
+ filter only good dogs in dog-bar
